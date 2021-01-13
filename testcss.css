@@ -248,7 +248,6 @@ li{
 .down-store a:nth-child(3){
     background:url(store03.png) 0 0 no-repeat;
     background-size: 100%;
-    margin: 0 6px;
 }
 #c01BackgroundCircle{
     z-index: -1;
@@ -308,7 +307,7 @@ li{
     height: 429px;
 }
 
-#c01Phone1{
+#c01Phone4{
     z-index:3;
     position: absolute;
     top:485px;
